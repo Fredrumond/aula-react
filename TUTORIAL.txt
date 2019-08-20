@@ -1,0 +1,12 @@
+- npm init
+- estrutura do projeto
+- instalar dependencias
+
+$ npm install --save-dev gulp webpack-stream @babel/core @babel/preset-env @babel/preset-react babel-loader react react-dom vinyl-named
+
+
+npm install --global gulp-cli
+
+
+gulp
+
