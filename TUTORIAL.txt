@@ -10,3 +10,15 @@ npm install --global gulp-cli
 
 gulp
 
+
+MAIS LOADERS
+
+npm install style-loader css-loader sass-loader node-sass --save-dev
+
+ROTAS
+
+npm install react-router-dom --save-dev
+
+
+
+
